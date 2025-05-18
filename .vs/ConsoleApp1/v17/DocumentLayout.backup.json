@@ -28,7 +28,11 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\It\u0060s my\\C#\\1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+>>>>>>> fix-from-old-commit
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T17:11:20.811Z",
               "EditorCaption": ""
